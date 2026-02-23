@@ -72,6 +72,11 @@ Exported Excel dataset for external analysis or GIS integration
 The land_surface_temperature_data.xlsx file includes synthetic MODIS-based thermal bands, NDVI, emissivity, and spatial coordinates. It is ideal for demonstrating temperature mapping workflows and geospatial data analysis concepts.
 
 👤 Author
+
 Name: Agbozu Ebingiye Nelvin
+
 Email: nelvinebingiye@gmail.com
-GitHub: github.com/nelvinebi
+
+GitHub: *github.com/nelvinebi
+
+LinkedIn: *https://www.linkedin.com/in/agbozu-ebi/
